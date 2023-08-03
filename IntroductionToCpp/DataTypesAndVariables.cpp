@@ -4,7 +4,7 @@
  int main(){
 
     string s;
-    cout << "Enter a string";
+    cout << "Enter a string" << endl;
     getline(cin,s);
     cout << "You have entered : " << s << endl;
 
